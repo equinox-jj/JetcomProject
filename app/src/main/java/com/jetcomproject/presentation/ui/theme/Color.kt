@@ -1,4 +1,4 @@
-package com.jetcomproject.ui.theme
+package com.jetcomproject.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
